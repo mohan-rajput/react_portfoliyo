@@ -1,0 +1,39 @@
+.skill
+{
+    width: 900px;
+}
+
+#s
+{
+    width: 130px;
+}
+#s:hover
+{
+border-bottom: 2px solid yellow;
+}
+
+.skill .items
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.skill .items .item
+{
+    width: calc(33.33%);
+     background-color: black;
+     margin: 20px;
+     padding: 20px;
+     border-radius: 10px;
+     border: 1px solid yellow;
+     box-shadow: 5px 5px 10px 10px rgb(100, 175, 10 , 0.5); 
+
+}
+
+.skill .items .item img
+{
+    width: 80px;
+}

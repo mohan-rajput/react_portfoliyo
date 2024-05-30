@@ -1,0 +1,25 @@
+
+.ex-item{
+    width: 900px;
+}
+.ex-item
+{
+    display: flex;
+    align-items: center;
+    background-color:rgb(98, 98, 157) ;
+    justify-content:space-between; 
+    margin:20px ;
+    padding: 20px;
+    gap: 20px;
+    width:700px;
+    border-radius: 10px;
+    border: 1px solid yellow;   
+    box-shadow: 5px 5px 10px 10px rgb(100, 175, 10 , 0.5); 
+}
+
+#compani-logo
+{
+    height: 140px;
+    border-radius: 100%;
+    border: .5px solid yellow;
+}

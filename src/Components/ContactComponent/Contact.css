@@ -1,0 +1,49 @@
+.contact-icon
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.items-icon
+{
+    height: 70px;
+    width: 70px;
+    background-color: black;
+    margin: 10px;
+    border: 2px solid yellow;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.contact-icon :hover
+{
+    background-color: rgb(198, 15, 176);
+    box-shadow: 5px 5px 10px 10px rgb(100, 175, 10 , 0.5); 
+}
+#c
+    {
+    width: 300px;
+    cursor: pointer;
+}
+#c:hover
+{
+    border-bottom:3px solid yellow ;
+}
+
+th
+{
+    width: auto;
+    cursor: pointer;
+}
+th:hover
+{
+    border-bottom:3px solid yellow ;
+}

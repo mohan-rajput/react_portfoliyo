@@ -1,0 +1,47 @@
+[
+    {
+        "title":"C",
+        "imageSrc":"/c.png"
+    }, {
+        "title":"C++",
+        "imageSrc":"/C++.png"
+    },
+    {
+        "title":"HTML",
+        "imageSrc":"/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"/css.png"
+    },
+    {
+        "title":"Bootstrap",
+        "imageSrc":"/bootstrap.png"
+    },
+    {
+        "title":"jQuery",
+        "imageSrc":"/jquery.png"
+    },
+    {
+        "title":"Java script",
+        "imageSrc":"/javascript.png"
+    },
+    {
+        "title":"mongoDB",
+        "imageSrc":"/mongodb.png"
+    },
+   
+    {
+        "title":"Express.js",
+        "imageSrc":"/express-js.png"
+    },
+    
+    {
+        "title":"React.js",
+        "imageSrc":"/react.png"
+    },
+    {
+        "title":"node.js",
+        "imageSrc":"/node.png"
+    }
+]
